@@ -8,10 +8,10 @@
     "src"
   ],
   "repository": {
-    "url": "https://github.com/Klerith/do-product-card",
+    "url": "https://github.com/ddessilvestri/ds-product-card",
     "type": "git"
   },
-  "homepage": "https://fernando-herrera.com",
+  "homepage": "https://david-silvestri.com",
   "engines": {
     "node": ">=10"
   },
@@ -39,12 +39,12 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "do-product-card",
-  "author": "Fernando Herrera",
-  "module": "dist/do-product-card.esm.js",
+  "name": "ds-product-card",
+  "author": "David Silvestri",
+  "module": "dist/ds-product-card.esm.js",
   "size-limit": [
     {
-      "path": "dist/do-product-card.cjs.production.min.js",
+      "path": "dist/ds-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
@@ -77,7 +77,7 @@
     "product",
     "card",
     "david",
-    "silvestr"
+    "silvestri"
   ],
   "dependencies": {},
   "jest": {
