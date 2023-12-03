@@ -7,7 +7,6 @@ describe('it', () => {
     const div = document.createElement('div');
     // ReactDOM.render(<Thing />, div);
     ReactDOM.unmountComponentAtNode(div);
-    console.log("hello world 2");
 
   });
 });
