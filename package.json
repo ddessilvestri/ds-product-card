@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ds-product-card",
+  "name": "@ddessilvestri/ds-product-card",
   "author": "David Silvestri",
   "module": "dist/ds-product-card.esm.js",
   "size-limit": [
@@ -48,7 +48,7 @@
       "limit": "10 KB"
     },
     {
-      "path": "dist/do-product-card.esm.js",
+      "path": "dist/ds-product-card.esm.js",
       "limit": "10 KB"
     }
   ],
